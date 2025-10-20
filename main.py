@@ -14,3 +14,5 @@ for num in numbers:
 
 # Print total sum
 print("Total sum of array:", total)  
+
+
