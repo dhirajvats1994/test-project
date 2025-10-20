@@ -13,4 +13,4 @@ for num in numbers:
     total += num  # Add to total
 
 # Print total sum
-print("Total sum of array:", total) 
+print("Total sum of array:", total)  
