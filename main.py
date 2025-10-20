@@ -8,7 +8,6 @@ total = 0
 for num in numbers:
     # print("Element:", num)
     print("Element1:", num) #show elemnet 
-    print("Element1:", num) #show elemnet 
     total += num  # Add to total
 
 # Print total sum
