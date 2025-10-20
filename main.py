@@ -16,3 +16,5 @@ for num in numbers:
 print("Total sum of array:", total)  
 
 
+
+
