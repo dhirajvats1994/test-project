@@ -1,4 +1,4 @@
-#todo : this is dummy project where we test the code review. 
+#todo : this is dummy project where we test the code review. 1
 
 # Sample array
 numbers = [5, 10, 15, 20, 25]
