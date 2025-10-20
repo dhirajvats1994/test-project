@@ -1,3 +1,5 @@
+#todo : this is dummy project where we test the code review. 
+
 # Sample array
 numbers = [5, 10, 15, 20, 25]
 
