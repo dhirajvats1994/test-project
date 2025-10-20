@@ -6,7 +6,8 @@ total = 0
 
 # Loop through the array and print each element
 for num in numbers:
-    print("Element:", num)
+    # print("Element:", num)
+    print("Element1:", num) #show elemnet 
     total += num  # Add to total
 
 # Print total sum
